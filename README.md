@@ -17,4 +17,6 @@ TortoiseGit is a Windows Shell Interface to Git and based on TortoiseSVN. It's o
 
 https://github.com/cmderdev/cmder/blob/master/README.md
 
-Fancy a colorful and customizable cmd on windows?, Cmder is here for that
+4. [dotPeek](https://www.jetbrains.com/decompiler/ "dotPeek")
+
+dotPeek is a free-of-charge standalone tool based on ReSharper's bundled decompiler. This helps to decompile .Net assemblies to C#.
